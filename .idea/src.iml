@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/week03/Sample03-01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week03/Sample03-02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week03/Sample03-03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week03/Sample03-04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week03/Sample03-05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week03/Sample03-06/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week03/Sample03-07/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week04/Salary01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week04/Salary02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week04/Salary03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week04/Salary04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week05/Water01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week05/Water02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week05/Water03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week05/Water04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week06/Phone01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week06/Phone02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week06/Phone03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week07/ClassRoom01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week09/Employee01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week09/Employee02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week10/File01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week10/File02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week10/File04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week10/File05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week10/File07/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week10/File08/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week10/File09/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week11/Power01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week11/Power02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week11/Power03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week13/PDF01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week14/QRCode01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week14/QRCode02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week14/QRCode03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week14/QRCode04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week14/QRCode05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week14/iText01/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

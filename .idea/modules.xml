@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week02/Sample01/Sample01.iml" filepath="$PROJECT_DIR$/week02/Sample01/Sample01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/Sample02/Sample02.iml" filepath="$PROJECT_DIR$/week02/Sample02/Sample02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/Sample03/Sample03.iml" filepath="$PROJECT_DIR$/week02/Sample03/Sample03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/Sample04/Sample04.iml" filepath="$PROJECT_DIR$/week02/Sample04/Sample04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/Sample05/Sample05.iml" filepath="$PROJECT_DIR$/week02/Sample05/Sample05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/Sample06/Sample06.iml" filepath="$PROJECT_DIR$/week02/Sample06/Sample06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/Sample07/Sample07.iml" filepath="$PROJECT_DIR$/week02/Sample07/Sample07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/Sample08/Sample08.iml" filepath="$PROJECT_DIR$/week02/Sample08/Sample08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/src.iml" filepath="$PROJECT_DIR$/.idea/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/week02.iml" filepath="$PROJECT_DIR$/week02/week02.iml" />
+    </modules>
+  </component>
+</project>
